@@ -1,3 +1,10 @@
-.list-group-item {
-  line-height: 2.5;
+.table{
+  width: 100vh;
 }
+.table tr{
+text-align: center;
+}
+.table td{
+text-align: center;
+}
+</style>
